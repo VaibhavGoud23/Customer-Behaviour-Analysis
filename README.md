@@ -2,7 +2,7 @@
 This project is an end-to-end data analytics workflow where raw data is transformed into meaningful insights. I worked on loading and analyzing the dataset using Python, cleaning and preparing it for analysis, running SQL queries in MySQL, and finally building an interactive Power BI dashboard.
 
  -- Dataset
-Source: ()
+Source: ( customer_shopping_behaviour)
 Format: CSV 
 The dataset includes information related to customer behavior/business performance, which was used to identify patterns and trends.
 
